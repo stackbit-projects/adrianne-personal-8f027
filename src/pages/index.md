@@ -87,7 +87,7 @@ sections:
     bg_color: light
 template: advanced
 seo:
-  title: Professional Editing and Copywriting
+  title: 'Adrienne Wilson: Professional Editing and Copywriting'
   description: ''
   robots: []
   extra: []
