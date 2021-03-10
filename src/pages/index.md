@@ -88,7 +88,9 @@ sections:
 template: advanced
 seo:
   title: 'Adrienne Wilson: Professional Editing and Copywriting'
-  description: ''
+  description: >-
+    A team of writers that provide professional services for Editing,
+    Copywriting and Proofreading
   robots: []
   extra: []
   type: stackbit_page_meta
