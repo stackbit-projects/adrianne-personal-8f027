@@ -87,7 +87,7 @@ sections:
     bg_color: light
 template: advanced
 seo:
-  title: ''
+  title: Professional Editing and Copywriting
   description: ''
   robots: []
   extra: []
