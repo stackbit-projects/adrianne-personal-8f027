@@ -11,7 +11,7 @@ export default class Header extends React.Component {
               <nav className="navbar" aria-label="Main Navigation">
                 {_.get(this.props, 'pageContext.site.siteMetadata.header.logo', null) ? (
                 <div className="navbar__logo">
-                  <Link to={withPrefix('/')}><img src={withPrefix(_.get(this.props, 'pageContext.site.siteMetadata.header.logo', null))} alt={_.get(this.props, 'pageContext.site.siteMetadata.header.logo_alt', null)} /></Link>
+                  <Link to={withPrefix('/')}><img style=src={withPrefix(_.get(this.props, 'pageContext.site.siteMetadata.header.logo', null))} alt={_.get(this.props, 'pageContext.site.siteMetadata.header.logo_alt', null)} /></Link>
                 </div>
                 ) : 
                 <div className="navbar__title">
