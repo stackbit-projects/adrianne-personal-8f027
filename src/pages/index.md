@@ -48,14 +48,6 @@ sections:
           - Communication design
           - Social media
           - Product design
-  - type: portfolio_section
-    section_id: latest-projects
-    layout_style: tiles
-    title: Recent Work
-    subtitle: Explore case studies
-    projects_number: 6
-    view_all_label: View All
-    view_all_url: portfolio
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
@@ -76,6 +68,14 @@ sections:
     col_number: three
     actions: []
     type: posts_section
+  - type: portfolio_section
+    section_id: latest-projects
+    layout_style: tiles
+    title: Recent Work
+    subtitle: Explore case studies
+    projects_number: 6
+    view_all_label: View All
+    view_all_url: portfolio
 template: advanced
 seo:
   title: 'Adrienne Wilson: Professional Editing and Copywriting'
