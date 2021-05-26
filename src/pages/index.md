@@ -49,7 +49,7 @@ sections:
           - Social media
           - Product design
   - section_id: lorem-ipsum
-    title: Recent Posts
+    title: Journal
     subtitle: lorem-ipsum
     posts_number: 3
     col_number: three
