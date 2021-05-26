@@ -4,7 +4,7 @@
     "base_font": "fraunces",
     "header": {
         "title": "Agency",
-        "logo": "images/important-zucchini.svg",
+        "logo": "images/Logo.svg",
         "logo_alt": "Adrienne Wilson",
         "has_nav": true,
         "nav_links": [
