@@ -13,9 +13,13 @@ seo:
   type: stackbit_page_meta
 template: post
 ---
-## Lorem ipsum
+## Well thank you,
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
 
-- Lorem ipsum
-- dolor sit amet
+##### Eiusmod tempor
+
+incididunt ut labore et dolore magna aliqua.
+
+*   Lorem ipsum
+*   dolor sit amet
