@@ -66,6 +66,7 @@ sections:
         url: /contact
         style: button
         no_follow: true
+        new_window: true
     image: images/cta.svg
     image_alt: Illustration
     bg_color: light
