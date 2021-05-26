@@ -86,7 +86,7 @@ sections:
     image_alt: Illustration
     bg_color: light
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Recent Posts
     subtitle: lorem-ipsum
     posts_number: 3
     col_number: three
