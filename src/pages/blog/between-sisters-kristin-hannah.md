@@ -2,7 +2,7 @@
 title: Between Sisters by Kristin Hannah
 date: '2021-06-16'
 thumb_image_alt: lorem-ipsum
-image_alt: lorem-ipsum
+image_alt: photo courtesy of Amazon.com
 excerpt: lorem-ipsum
 seo:
   title: ''
