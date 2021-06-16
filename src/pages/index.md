@@ -6,7 +6,7 @@ sections:
     section_id: hero
     title: >-
       A writer, editor and book-lover in Cincinnati with a focus on Books,
-      Screenplays and Copywriting.
+      Screenplays and Copyediting.
     content: >-
       We are a brand and design practice. We work closely with you, your team to
       deliver inspiring work, which enables your organization to grow. [Let's
