@@ -1,6 +1,5 @@
 ---
 title: Between Sisters by Kristin Hannah
-subtitle: lorem-ipsum
 date: '2021-06-16'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
