@@ -12,6 +12,7 @@ seo:
   type: stackbit_page_meta
 template: post
 thumb_image: images/interesting-amaranth.jpg
+image: images/mighty-chili.jpg
 ---
 ###### There are some books that I can enjoy with a smile on my face, put them in a bag to take to the twice-loved bookstore or store in the archives of my ebook library, walk away, and forget I ever read them.  Other books stick around a while.  Maybe I remember a few details that spoke to me.  Maybe I will fall in love with the characters.  These books I might even reread and enjoy them all the more the second time around.&#xA;&#xA;Then there are the books that rip my heart out and threaten my very existence.  Those books are never to be read again, even as the details refuse to be forgotten.  They wallow on my bookshelf, waiting for the day when I can handle picking them up again, because I also can’t let them go.  
 
