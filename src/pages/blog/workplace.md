@@ -1,5 +1,5 @@
 ---
-title: The Lords of London by Christi Caldwell
+title: The Lost Lords of London
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.
