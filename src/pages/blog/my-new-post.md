@@ -1,6 +1,6 @@
 ---
 title: Meghan Quinn The Brentwood Boys
-date: '2021-06-26'
+date: '2021-07-26'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
