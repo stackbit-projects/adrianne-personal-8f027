@@ -1,5 +1,5 @@
 ---
-title: 'Meghan Quinn '
+title: Meghan Quinn The Brentwood Boys
 subtitle: lorem-ipsum
 date: '2021-05-26'
 thumb_image_alt: lorem-ipsum
