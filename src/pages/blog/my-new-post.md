@@ -11,6 +11,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
+subtitle: Take Me Out to the Ballgame!
 ---
 ## Lorem ipsum
 
